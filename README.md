@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JoshyTM123
 - 👀 I’m interested in Games Design :)
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning that GitHub is painful to use :)
+- 💞️ I’m looking to collaborate on :)
+- 📫 How to reach me :)
+- 😄 Pronouns: :)
 - ⚡ Fun fact: Hello :D
 
 <!---
